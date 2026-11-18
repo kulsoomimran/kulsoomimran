@@ -16,7 +16,7 @@
 ---
 
 - 👩‍💻 All of my projects are available at: [Portfolio](https://kulsoom-portfolio.vercel.app/)
-- 📄 View My Resume: [Download PDF](https://kulsoom-portfolio.vercel.app/my%20resume.pdf)
+- 📄 View My Resume: [Download PDF](https://kulsoom-portfolio.vercel.app/Kulsoom%20Imran%20Resume.pdf)
 
 ---
 
